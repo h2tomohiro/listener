@@ -9,9 +9,9 @@ export const App = () => {
   return (
     <>
       <Header />
-      <div className="app_container">
+      <div className="app_container border border-info">
         <Sidebar />
-        <Container fluid className="app__main">
+        <Container fluid className="app__main border border-warning">
           <HomeScreen />
         </Container>
       </div>

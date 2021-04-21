@@ -3,7 +3,7 @@ import "./_sidebar.scss";
 
 export const Sidebar = () => {
   return (
-    <div>
+    <div className="border border-danger">
       Sidebar
     </div>
   )
