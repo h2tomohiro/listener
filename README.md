@@ -1,3 +1,6 @@
+# Library
+- npm i react-bootstrap bootstrap node-sass@4.14.1 react-icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
