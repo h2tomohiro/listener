@@ -4,6 +4,7 @@ import { Container } from "react-bootstrap";
 import Header from "./components/header/Header";
 import Sidebar from "./components/sidebar/Sidebar";
 import HomeScreen from "./screens/homeScreen/HomeScreen";
+import "./_app.scss";
 
 export const App = () => {
   return (
